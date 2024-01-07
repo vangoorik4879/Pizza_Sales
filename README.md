@@ -1,5 +1,3 @@
-Last week was busy with job applications, self learning, and putting together a portfolio. Even though I planned to finish the portfolio during the week, I had to spend extra time on Saturday and Sunday to get it done.
-
 During a pizza party with friends, I noticed everyone had different pizza preferences. This got me interested in analyzing pizza sales.
 
 This project also let me use and improve my skills in Power BI and SQL.
